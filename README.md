@@ -1,6 +1,6 @@
 # My Markdown Project
 
-Welcome to my project! This README includes my favorite shows, actors, people I want to meet, quotes, and code snippets.
+Welcome to my project! This README includes my favorite shows, actors, people I want to meet, quotes, and code snippets along with a source link attached.
 
 ---
 
@@ -40,14 +40,19 @@ Here is a table of people I would love to meet:
 
 ---
 
-## Part 8: Favorite Quotes (BTS)
+## Part 8: Favorite Quotes
 
-> "Don't be trapped in someone else's dream."  
-> *RM (BTS)*
+> "The important thing is not to stop questioning. Curiosity has its own reason for existing."
+> — *Albert Einstein*
 
+> "Science is a way of thinking much more than it is a body of knowledge."
+> — *Carl Sagan*
 
-> "Effort makes you. You will regret someday if you don’t do your best now."  
-> *J-Hope (BTS)*
+> "Research is what I'm doing when I don't know what I'm doing."
+> — *Wernher von Braun*
+
+> "Somewhere, something incredible is waiting to be known."
+> — *Carl Sagan*
 
 ---
 
