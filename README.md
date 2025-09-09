@@ -9,3 +9,5 @@
 - All of Us Are Dead
 - Stranger Things
 - Squid Game
+
+[Check out my walking activity](MyActivity.md)
