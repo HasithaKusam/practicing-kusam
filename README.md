@@ -36,3 +36,14 @@ Here is a list of people I would love to meet:
 > *J-Hope (BTS)*
 
 ---
+
+## Favorite Code Snippet
+
+Here’s a snippet that prints my favorite activity:
+
+```python
+# Simple Python code snippet
+activity = "walking"
+print(f"My favorite activity is {activity}")
+
+![Walking Activity](images/walking.jpg)
