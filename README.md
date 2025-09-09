@@ -18,6 +18,7 @@ Welcome to my project! This README includes my favorite shows, actors, people I 
 - Stranger Things
 - Squid Game
 
+
 ---
 
 ## Part 6: MyActivity
