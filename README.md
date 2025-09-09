@@ -11,3 +11,18 @@
 - Squid Game
 
 [Check out my walking activity](MyActivity.md)
+
+---
+
+## People I Want to Meet
+
+Here is a list of people I would love to meet:
+
+| Name        | Reason                                      | Birth Date | Death Date |
+|-------------|--------------------------------------------|------------|------------|
+| Jungkook    | Amazing singer and dancer                   | 1997-09-01 | -          |
+| Keshi       | Talented songwriter and musician           | 1994-11-04 | -          |
+| Tyla        | Inspirational artist                        | 2002-01-30 | -          |
+| Marteen     | Awesome music creator and performer        | 1998-05-04 | -          |
+
+---
