@@ -53,12 +53,18 @@ Here is a table of people I would love to meet:
 
 ## Part 9: Favorite Code Snippet
 
-Here’s a simple Python snippet showing my favorite activity:
+This snippet demonstrates how to use **`Promise.all()`** in JavaScript.  
+It allows you to run multiple asynchronous operations in parallel, and only continues once all of them have finished successfully.  
+If any of the promises fail, the `catch` block will be triggered.  
+This is useful for tasks like fetching multiple APIs or reading several files at once.
 
+```javascript
+Promise.all([ promise_1, promise_2 ]).then((values) => {
+    // all input Promises resolved
+    console.log("Resolved values:", values);
+}).catch((reason) => {
+    // one of input Promises rejected
+    console.error("Promise rejected:", reason);
+});
+🔗 [View Source Snippet on Pieces](https://code.pieces.app/collections)
 
-```python
-# Simple Python code snippet
-activity = "walking"
-print(f"My favorite activity is {activity}")
-
-Check out my activity here: [My Walking Activity](MyActivity.md)
