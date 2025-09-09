@@ -1,33 +1,45 @@
-## Favorite Actors (All of Us Are Dead)
+# My Markdown Project
+
+Welcome to my project! This README includes my favorite shows, actors, people I want to meet, quotes, and code snippets.
+
+---
+
+## Part 4: Favorite Actors (All of Us Are Dead)
 
 1. Park Ji-hoo
 2. Yoon Chan-young
 3. Lomon
 
-## Favorite Shows
+---
+
+## Part 5: Favorite Shows
 
 - All of Us Are Dead
 - Stranger Things
 - Squid Game
 
-[Check out my walking activity](MyActivity.md)
+---
+
+## Part 6: MyActivity
+
+Check out my activity here: [My Walking Activity](MyActivity.md)
 
 ---
 
-## People I Want to Meet
+## Part 7: People I Want to Meet
 
-Here is a list of people I would love to meet:
+Here is a table of people I would love to meet:
 
-| Name        | Reason                                      | Birth Date | Death Date |
-|-------------|--------------------------------------------|------------|------------|
-| Jungkook    | Amazing singer and dancer                   | 1997-09-01 | -          |
-| Keshi       | Talented songwriter and musician           | 1994-11-04 | -          |
-| Tyla        | Inspirational artist                        | 2002-01-30 | -          |
-| Marteen     | Awesome music creator and performer        | 1998-05-04 | -          |
+| Name      | Reason                              | Birth Date | Death Date |
+|-----------|-------------------------------------|------------|------------|
+| Jungkook  | Amazing singer and dancer           | 1997-09-01 | -          |
+| Keshi     | Talented songwriter and musician    | 1994-11-04 | -          |
+| Tyla      | Inspirational artist                | 2002-01-30 | -          |
+| Marteen   | Awesome music creator and performer | 1998-05-04 | -          |
 
 ---
 
-## Favorite Quotes 
+## Part 8: Favorite Quotes (BTS)
 
 > "Don't be trapped in someone else's dream."  
 > *RM (BTS)*
@@ -37,13 +49,11 @@ Here is a list of people I would love to meet:
 
 ---
 
-## Favorite Code Snippet
+## Part 9: Favorite Code Snippet
 
-Here’s a snippet that prints my favorite activity:
+Here’s a simple Python snippet showing my favorite activity:
 
 ```python
 # Simple Python code snippet
 activity = "walking"
 print(f"My favorite activity is {activity}")
-
-![Walking Activity](images/walking.jpg)
