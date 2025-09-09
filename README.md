@@ -66,5 +66,5 @@ Promise.all([ promise_1, promise_2 ]).then((values) => {
     // one of input Promises rejected
     console.error("Promise rejected:", reason);
 });
- [View Source Snippet on Pieces](https://code.pieces.app/collections)
+[View Source Snippet on Pieces](https://code.pieces.app/collections)
 
